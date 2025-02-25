@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Yummy Plan</string>
+    <string name="client_id">504288341732-imk45eb1qpt9clkv5h7a36ka656p9ro0.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
